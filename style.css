@@ -70,3 +70,8 @@ body{
         right: -15.7%;
     }
 }
+@media screen and (max-width:360px) {
+    .nav_menu {
+        right: -31%;
+    }
+}
