@@ -74,4 +74,7 @@ body{
     .nav_menu {
         right: -31%;
     }
+    .logo{
+        width: 92px;
+    }
 }
