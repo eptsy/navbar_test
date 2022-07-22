@@ -19,6 +19,9 @@ closeBtn.addEventListener('click', closeNav);
 
 //asdfasdfasdfasdfasfd
 //closeBtn.addEventListener('click', closeNav);
+//closeBtn.addEventListener('click', closeNav);
+//closeBtn.addEventListener('click', closeNav);
+//closeBtn.addEventListener('click', closeNav);
 //closeBtn.addEventListener('click', closeNav);/
 //closeBtn.addEventListener('click', closeNav);
 //closeBtn.addEventListener('click', closeNav);
